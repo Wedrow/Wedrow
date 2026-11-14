@@ -1,4 +1,5 @@
 # Hi, I'm ledrodh
+
 ### Python Developer | Backend Engineering | Data & Automation
 
 I build Python applications focused on solving practical engineering problems across backend systems, data processing, document intelligence, and workflow automation.
@@ -59,7 +60,25 @@ Combines original-language audio prioritization, FFmpeg-based remuxing and trimm
 
 Technologies: Python, Streamlit, yt-dlp, FFmpeg, FFprobe, Pytest, Ruff, Pyright, Docker.
 
-* * *
+### [Library Archiver](https://github.com/ledrodh/Library-Archiver)
+
+Bibliographic Management & Metadata Reconciliation
+
+A local-first digital library platform designed to organize document collections, reconcile bibliographic metadata, and manage relationships between intellectual works, editions, contributors, and external source records.
+
+Combines SQLite-based bibliographic modeling, multi-source metadata discovery, reversible curation, provenance tracking, and controlled ingestion workflows to maintain catalog integrity across local and external collections.
+
+- Relational modeling of works, editions, contributors, and identifiers.
+- Multi-source discovery through REST connectors and OAI-PMH harvesting.
+- FTS5-powered bibliographic search and metadata reconciliation.
+- Reversible curation with conflict detection and audit history.
+- Operational execution tracking, idempotent queries, and resumable campaigns.
+- Local file tracking, SHA-256 identification, and secure availability monitoring.
+
+Technologies: Python, SQLite, FTS5, Streamlit, REST APIs, OAI-PMH, PyMuPDF, Requests, urllib3, Unittest.
+
+---
+
 ## Technical Focus
 
 - Backend Engineering: Python, FastAPI, SQLAlchemy, PostgreSQL.
@@ -76,6 +95,6 @@ Technologies: Python, Streamlit, yt-dlp, FFmpeg, FFprobe, Pytest, Ruff, Pyright,
 - Document Intelligence and Applied AI.
 - Software Testing and Quality Assurance.
 
-* * *
+---
 
 Always exploring new engineering challenges and building practical software solutions.
