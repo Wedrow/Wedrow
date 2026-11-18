@@ -1,4 +1,4 @@
-# Hi, I'm ledrodh
+# Hi, I'm Pedro Henrique (Wedrow)
 
 ### Python Developer | Backend Engineering | Data & Automation
 
@@ -8,7 +8,7 @@ My work emphasizes reliable data handling, maintainable architecture, software q
 
 ## Featured Projects
 
-### [Lume](https://github.com/ledrodh/Lume)
+### [Lume](https://github.com/Wedrow/Lume)
 
 Document Restoration & E-book Processing
 
@@ -18,7 +18,7 @@ Combines OCR, document diagnostics, layout analysis, PDF processing, and a custo
 
 Technologies: Python, Marker, Surya, PyMuPDF, Pandoc, HTML Processing, EPUB 3.
 
-### [StockFlow API](https://github.com/ledrodh/stockflow-api)
+### [StockFlow API](https://github.com/Wedrow/stockflow-api)
 
 Transactional Inventory & Order Management
 
@@ -26,7 +26,7 @@ A backend system designed around data integrity and reliable transaction process
 
 Technologies: Python, FastAPI, SQLAlchemy, PostgreSQL, Alembic, Pytest, Docker, React, TypeScript.
 
-### [EchoScope AI](https://github.com/ledrodh/EchoScope-AI)
+### [EchoScope AI](https://github.com/Wedrow/EchoScope-AI)
 
 YouTube Competitive Intelligence & Strategic Analytics
 
@@ -42,7 +42,7 @@ Built around the principle "Python Calculates; Gemini Interprets", separating de
 
 Technologies: Python, YouTube Data API v3, SQLite, Streamlit, Google Gemini, Pydantic, Pytest.
 
-### [GeoBrief Automated](https://github.com/ledrodh/GeoBrief-Automated)
+### [GeoBrief Automated](https://github.com/Wedrow/GeoBrief-Automated)
 
 OSINT & Intelligence Automation
 
@@ -50,7 +50,7 @@ An automated information-gathering pipeline that aggregates news and Telegram da
 
 Technologies: Python, Playwright, Telethon, SQLite, Google Gemini, Telegram Bot API.
 
-### [OmniFetch](https://github.com/ledrodh/OmniFetch)
+### [OmniFetch](https://github.com/Wedrow/OmniFetch)
 
 Local-First Media Inspection & Processing
 
@@ -60,7 +60,7 @@ Combines original-language audio prioritization, FFmpeg-based remuxing and trimm
 
 Technologies: Python, Streamlit, yt-dlp, FFmpeg, FFprobe, Pytest, Ruff, Pyright, Docker.
 
-### [Library Archiver](https://github.com/ledrodh/Library-Archiver)
+### [Library Archiver](https://github.com/Wedrow/Library-Archiver)
 
 Bibliographic Management & Metadata Reconciliation
 
@@ -94,6 +94,14 @@ Technologies: Python, SQLite, FTS5, Streamlit, REST APIs, OAI-PMH, PyMuPDF, Requ
 - Data Engineering and Intelligent Automation.
 - Document Intelligence and Applied AI.
 - Software Testing and Quality Assurance.
+
+---
+
+## Contact
+
+- **Name:** Pedro Henrique
+- **Email:** [xpedrox526@gmail.com](mailto:xpedrox526@gmail.com)
+- **GitHub:** [@Wedrow](https://github.com/Wedrow)
 
 ---
 
