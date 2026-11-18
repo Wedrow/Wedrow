@@ -1,4 +1,4 @@
-# Hi, I'm Pedro Henrique (Wedrow)
+# Hi, I'm Pedro.
 
 ### Python Developer | Backend Engineering | Data & Automation
 
